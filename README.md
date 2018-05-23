@@ -1,1 +1,5 @@
-# Abundance_estimation_and_DE
+# Abundance estimation and DE
+
+
+The scripts in this repo were used to perform abundance estimation and differential expression analysis of the cuttlefish RNA-seq reads
+
